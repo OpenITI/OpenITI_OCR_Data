@@ -29,3 +29,10 @@ OpenITI_OCR_Data
         ├── V14.pdf
         └── V15.pdf
 ```
+
+## Contents of `OpenITI_URIs.txt`
+
+```
+0748Dhahabi.TarikhIslam.Shamela0035100-ara1.mARkdown
+0748Dhahabi.TarikhIslam.Sham30K0004263-ara1
+```
