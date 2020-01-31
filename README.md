@@ -2,7 +2,7 @@
 
 Data for OCR analysis based on OpenITI corpus: texts files with PDFs of corresponding editions.
 
-# Structure
+## Structure
 
 All data is placed in subfolder `data`; subfolders inside are named after specific `URIs` from OpenITI, which include PDF files named `Vxx.pdf`, where `xx` is the volume number; `IDXXXXXX` is the ID of a specific edition. `OpenITI_URIs.txt` inside the folder includes the list of files (OpenITI URIs) that are based on the edition in PDFs (one URI per line)
 
